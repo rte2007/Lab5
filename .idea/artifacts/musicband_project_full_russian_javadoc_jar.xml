@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="musicband_project_full_russian_javadoc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/musicband_project_full_russian_javadoc_jar</output-path>
+    <root id="archive" name="musicband_project_full_russian_javadoc.jar">
+      <element id="module-output" name="Lab5" />
+    </root>
+  </artifact>
+</component>

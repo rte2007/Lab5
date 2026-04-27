@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicBands>
+  <musicBand>
+    <id>1</id>
+    <name>Example Band</name>
+    <x>100</x>
+    <y>200</y>
+    <creationDate>2025-01-01T12:00:00</creationDate>
+    <numberOfParticipants>4</numberOfParticipants>
+    <genre>POP</genre>
+    <labelName>Example Label</labelName>
+    <bands>10</bands>
+    <sales>1000.5</sales>
+  </musicBand>
+</musicBands>
